@@ -1,4 +1,4 @@
-Scan a specified CIDR network for SSL/TLS certificates on commonly used ports (8080, 443, and 444).
+Scan a specified netowork in CIDR format, for SSL/TLS certificates on commonly used ports (8080, 443, and 444).
 Identify certificates that are expired, self-signed, or valid.
 Extract detailed certificate information for further analysis.
 Results are saved in a CSV file, making it easy to analyze the certificate status across the network.
